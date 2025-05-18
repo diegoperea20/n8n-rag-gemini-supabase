@@ -4,6 +4,8 @@
 Implementation of a RAG (Retrieval-Augmented Generation) system in n8n for an online store, using OpenRouter, Google Gemini, and Supabase.
 </p>
 
+[Spanish version](#spanish)
+
 <p align="center">
   <img src="README-images/AIagent.png" alt="AI Agent">
 </p>
